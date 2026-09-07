@@ -1,0 +1,9 @@
+# Frontend Dependencies
+streamlit>=1.37.0
+requests>=2.32.0
+
+# Backend Dependencies (FastAPI API server)
+fastapi>=0.110.0
+uvicorn>=0.30.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
